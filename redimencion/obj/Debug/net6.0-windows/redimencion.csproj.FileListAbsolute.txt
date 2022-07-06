@@ -1,0 +1,17 @@
+C:\Users\elnaza\source\repos\redimencion\redimencion\bin\Debug\net6.0-windows\redimencion.exe
+C:\Users\elnaza\source\repos\redimencion\redimencion\bin\Debug\net6.0-windows\redimencion.deps.json
+C:\Users\elnaza\source\repos\redimencion\redimencion\bin\Debug\net6.0-windows\redimencion.runtimeconfig.json
+C:\Users\elnaza\source\repos\redimencion\redimencion\bin\Debug\net6.0-windows\redimencion.dll
+C:\Users\elnaza\source\repos\redimencion\redimencion\bin\Debug\net6.0-windows\redimencion.pdb
+C:\Users\elnaza\source\repos\redimencion\redimencion\obj\Debug\net6.0-windows\redimencion.csproj.AssemblyReference.cache
+C:\Users\elnaza\source\repos\redimencion\redimencion\obj\Debug\net6.0-windows\redimencion.Form1.resources
+C:\Users\elnaza\source\repos\redimencion\redimencion\obj\Debug\net6.0-windows\redimencion.csproj.GenerateResource.cache
+C:\Users\elnaza\source\repos\redimencion\redimencion\obj\Debug\net6.0-windows\redimencion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elnaza\source\repos\redimencion\redimencion\obj\Debug\net6.0-windows\redimencion.AssemblyInfoInputs.cache
+C:\Users\elnaza\source\repos\redimencion\redimencion\obj\Debug\net6.0-windows\redimencion.AssemblyInfo.cs
+C:\Users\elnaza\source\repos\redimencion\redimencion\obj\Debug\net6.0-windows\redimencion.csproj.CoreCompileInputs.cache
+C:\Users\elnaza\source\repos\redimencion\redimencion\obj\Debug\net6.0-windows\redimencion.dll
+C:\Users\elnaza\source\repos\redimencion\redimencion\obj\Debug\net6.0-windows\refint\redimencion.dll
+C:\Users\elnaza\source\repos\redimencion\redimencion\obj\Debug\net6.0-windows\redimencion.pdb
+C:\Users\elnaza\source\repos\redimencion\redimencion\obj\Debug\net6.0-windows\redimencion.genruntimeconfig.cache
+C:\Users\elnaza\source\repos\redimencion\redimencion\obj\Debug\net6.0-windows\ref\redimencion.dll
